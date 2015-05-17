@@ -17,5 +17,6 @@ a.printVector();
 */
 
 changeWidth();
+throwException();
 return 0;
 }
